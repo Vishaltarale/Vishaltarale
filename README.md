@@ -2,7 +2,7 @@
 
 > Python Developer passionate about clean code, automation, and building impactful solutions.
 
-[![LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishal-tarale-2a0051314/))
+[![LinkedIn](https://img.shields.io/badge/Portfolio-Visit-brightgreen)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishal-tarale-2a0051314/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://yourwebsite.com)
 
 ## 💻 Tech Stack
