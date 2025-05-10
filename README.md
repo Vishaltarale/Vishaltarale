@@ -69,14 +69,6 @@ def my_coding_philosophy():
     return principles
 ```
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Automated My Workflow with Python](https://yourblog.com/post1)
-- [Building Scalable APIs with FastAPI](https://yourblog.com/post2)
-- [Clean Code Practices in Python](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🌱 Currently Learning
 
 - Advanced machine learning techniques
